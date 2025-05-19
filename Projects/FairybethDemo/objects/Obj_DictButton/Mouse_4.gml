@@ -1,0 +1,1 @@
+global.showDictionary = !global.showDictionary;
