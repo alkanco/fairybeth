@@ -1,0 +1,2 @@
+letter="R"
+item="Rug"
